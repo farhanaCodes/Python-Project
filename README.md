@@ -298,6 +298,6 @@ If you choose the MIT License, include a `LICENSE` file containing the appropria
 
 **Your Name**
 
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: (https://github.com/farhanaCodes)
 
 Feel free to explore the repository, share feedback, and suggest improvements!
